@@ -30,9 +30,9 @@ Project Manager:
 	    Khulna University,Khulna,Bangladesh
 Developed By:
 
-	     Swapnil Pranta Mistry(200204)
+	    Swapnil Pranta Mistry(200204)
 	     
-       Md. Rahul Islam(190221)
+            Md. Rahul Islam(190221)
 	     
 Project Description:
 
