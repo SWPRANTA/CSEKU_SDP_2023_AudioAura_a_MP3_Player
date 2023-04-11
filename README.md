@@ -39,3 +39,5 @@ Project Description:
 This music player project is a Java application. The application features a user-friendly interface with various controls for playing, pausing, stopping, and navigating audio tracks. The application also includes a file browser for selecting audio files, as well as the ability to create playlist of favorite tracks.
 
 The application is built using the Javazoom library for audio playback and uses Java Swing for the graphical user interface. The project aims to provide a simple and intuitive music player experience for users.
+
+Working video of the project: https://youtu.be/g4ca-HIZ2Dw
